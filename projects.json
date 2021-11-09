@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Dino Trivia",
+      "live": "https://my-first-project-three.vercel.app/",
+      "git": "https://github.com/wensyd/myFirstProject",
+      "image": "https://i.imgur.com/CHmgcMn.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Visions",
+      "live": "https://wd-visions.herokuapp.com/",
+      "git": "https://github.com/wensyd/visions_project2app",
+      "image": "https://i.imgur.com/dyNfQHd.png"
     }
   ]
